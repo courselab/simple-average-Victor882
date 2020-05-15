@@ -30,9 +30,9 @@ int main()
  float n1, n2, n3;
  float result;
   
- n1 = 6.38;
- n2 = 8.77;
- n3 = 9.75;
+ n1 = 10;
+ n2 = 20;
+ n3 = 60;
   
  result = average (n1, n2, n3);
 
